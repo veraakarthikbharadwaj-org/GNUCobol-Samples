@@ -1,3 +1,3 @@
-# GNUCobol-Samples - scan 4
+# GNUCobol-Samples - scan 5
 
 Sample programs from GNUCobols
